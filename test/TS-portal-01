@@ -8,8 +8,8 @@
 <body>
 <table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
 <tr><td><b>Test Suite</b></td></tr>
-<tr><td><a href="../test case1103/TC-portal-01-01.html">TC-portal-01-01</a></td></tr>
-<tr><td><a href="../test case1103/TC-portal-01-02.html">TC-portal-01-02</a></td></tr>
+<tr><td><a href="TC-portal-01-01.html">TC-portal-01-01</a></td></tr>
+<tr><td><a href="TC-portal-01-02.html">TC-portal-01-02</a></td></tr>
 </tbody></table>
 </body>
 </html>
