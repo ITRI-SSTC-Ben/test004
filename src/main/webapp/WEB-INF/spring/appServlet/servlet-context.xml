@@ -21,7 +21,7 @@
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
 	
-	<context:component-scan base-package="itri.sstc.test" />
+	<context:component-scan base-package="itri.sstc.DevOps" />
 	
 	
 	
